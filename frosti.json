@@ -5,10 +5,10 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CirroBuild/FoG/releases/download/v1.1.preview/Frosti-v1.1.preview-win64.zip"
+            "url": "https://github.com/CirroBuild/FoG/releases/download/v1.1.preview/Frosti-v1.1.preview-win64.zip",
+            "extract_dir": "frosti-v1.1.preview-win64"
         }
     },
-    "extract_dir": "Frosti\\bin",
     "bin": "frosti.exe",
     "checkver": {
         "url": "github"
@@ -16,7 +16,8 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/CirroBuild/FoG/releases/download/v$version/Frosti-v$version-win64.zip"
+                "url": "https://github.com/CirroBuild/FoG/releases/download/v$version/Frosti-v$version-win64.zip",
+                "extract_dir": "frosti-v$version-win64"
             }
         }
     }
