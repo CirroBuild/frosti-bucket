@@ -9,7 +9,7 @@
             "hash": "3f6f432215b3f3165fd5353e7b9f3b1fa9b5d42b6a69f8d702777e5d03675254"
         }
     },
-    "bin": "frosti.exe",
+    "bin": "win64/Frosti.exe",
     "checkver": {
         "url": "github"
     },
