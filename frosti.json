@@ -5,8 +5,8 @@
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CirroBuild/FoG/releases/download/v1.1.preview/Frosti-v1.1.preview-win64.zip",
-            "hash": "3f6f432215b3f3165fd5353e7b9f3b1fa9b5d42b6a69f8d702777e5d03675254"
+            "url": "https://github.com/CirroBuild/FoG/releases/download/v1.2.preview/Frosti-v1.2.preview-win64.zip",
+            "hash": "75ffbac2a30e427a78b91eab4a6d0693d07854a55259b6b3a2d3f5c3a63a8568"
         }
     },
     "bin": "win64/Frosti.exe",
