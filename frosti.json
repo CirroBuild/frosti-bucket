@@ -1,16 +1,16 @@
 {
-    "version": "3.1.preview",
+    "version": "3.2.preview",
     "description": "Automatically deploy your cloud infrastructure",
     "homepage": "https://www.frostibuild.com",
     "license": "MPL-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/CirroBuild/FoG/releases/download/v3.1.preview/Frosti-v3.1.preview-win64.zip",
-            "hash": "5f3713725841609571edcd73ccacc59dcb701eabf8b3143f47be0e63da62ce20"
+            "url": "https://github.com/CirroBuild/FoG/releases/download/v3.2.preview/Frosti-v3.2.preview-win64.zip",
+            "hash": "61472b10dca2d6bdfa65a7c2e9459609aa4e4c626b747df98a394a94bf5cf1f3"
         },
         "32bit": {
-            "url": "https://github.com/CirroBuild/FoG/releases/download/v3.1.preview/Frosti-v3.1.preview-win32.zip",
-            "hash": "b061d3a92ab8ef29cd532e7bd4d5bcb4d868862036b3b7e6762caacfd1257728"
+            "url": "https://github.com/CirroBuild/FoG/releases/download/v3.2.preview/Frosti-v3.2.preview-win32.zip",
+            "hash": "2603c2b135aaf24931743d0de421b7cc179723a2e834545bc773f2ee89914cf4"
         }
     },
     "bin": "win64/Frosti.exe",
